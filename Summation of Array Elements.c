@@ -1,3 +1,6 @@
+/*
+@DarkMotion
+*/
 #include<stdio.h>
 #include<string.h>
 
