@@ -1,3 +1,6 @@
+/**
+@DarkMotion
+*/
 #include<stdio.h>
 #include<math.h>
 void result(double a, double b, double c);
