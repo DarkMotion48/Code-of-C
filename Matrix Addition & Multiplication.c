@@ -1,3 +1,6 @@
+/**
+@DarkMotion
+*/
 #include<stdio.h>
 void addition (int a[][5],int b[][5]);
 void multiplication(int a[][5],int b[][5]);
