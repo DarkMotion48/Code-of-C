@@ -32,6 +32,7 @@ int main()
     }
         return 0;
 }
+
 void add(int c[5][5])
 {
     int i,j;
