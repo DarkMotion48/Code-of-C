@@ -1,3 +1,6 @@
+/**
+@DarkMotion
+*/
 #include <stdio.h>
 #include <stdlib.h>
 int compareFile(FILE * fPtr1, FILE * fPtr2, int * line, int * col);
