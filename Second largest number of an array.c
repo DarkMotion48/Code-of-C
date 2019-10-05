@@ -1,3 +1,7 @@
+/**
+@DarkMotion
+*/
+#include<stdio.h>
 int main() {
     int a[10], n;
     int largest1, largest2, i;
